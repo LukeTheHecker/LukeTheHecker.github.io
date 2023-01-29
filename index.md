@@ -55,6 +55,18 @@ https://doi.org/10.1016/j.brs.2016.04.007</a>
 
 ## Preprints
 
+Hecker, L., Joos, E., Feige, B., Maier, S., van Elst, L. T., & Kornmeier, J. 
+(2023). Source Reconstruction of the ERP Uncertainty Effects reveals common 
+Neural Mechanisms for different Stimulus Categories.
+<a href="https://www.researchsquare.com/article/rs-2405042/latest.pdf"> 
+  https://www.researchsquare.com/article/rs-2405042/latest.pdf </a>
+
+Hecker, L., Tebartz van Elst, L., & Kornmeier, J. (2023). Source Localization Using 
+Recursively Applied and Projected MUSIC with Flexible Extent Estimation. bioRxiv, 
+2023-01.
+<a href="https://www.biorxiv.org/content/10.1101/2023.01.20.524892.abstract"> 
+  https://www.biorxiv.org/content/10.1101/2023.01.20.524892.abstract </a>
+
 Hecker, L., Rupprecht, R., van Elst, L. T., & Kornmeier, J. (2022). Long-Short
 Term Memory Networks for Electric Source Imaging with Distributed Dipole Models.
 bioRxiv. <a href="https://doi.org/10.1101/2022.04.13.488148">
