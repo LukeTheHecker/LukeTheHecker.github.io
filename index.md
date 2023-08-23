@@ -5,12 +5,17 @@
 ## Contact
 E-mail: [lukas_hecker@web.de](mailto:lukas_hecker@web.de)  
 Github: [https://github.com/LukeTheHecker](https://github.com/LukeTheHecker)
+
 ## Positions
-PhD student working on Machine Learning applied to Inverse Solutions in Electro-
+*08/2023 - today* | Scientific consultant for the Braude College, Israel in cooperation with the McGovern Institute for Brain Research in Boston (MIT).  
+  
+*12/2022 - today* | Research officer at an AI startup.  
+  
+*01/2020 - 12/2022* | PhD student working on Machine Learning applied to Inverse Solutions in Electro-
 and Magnetoencephalography. Scholarship holder of the Institute for Frontier
 Areas in Psychology and Mental Health. Researcher at the University Medical
 Center, Department for Psychosomatic Medicine and Psychotherapy, Freiburg,
-Germany. 
+Germany.  
 
 ## Education
 
@@ -23,10 +28,22 @@ University of Chemnitz
 
 ## Publications
 
-Hecker, L., Wilson, M., Tebartz van Elst, L., & Kornmeier, J. (2022). Altered
-EEG variability on different time scales in participants with autism spectrum
-disorder: an exploratory study. Scientific reports, 12(1), 1-12. <a
-href="https://doi.org/10.1038/s41598-022-17304-x">
+Wilson, M., Hecker, L., Joos, E., Aertsen, A., Tebartz van Elst, L., & Kornmeier, 
+J. (2023). Spontaneous Necker-cube reversals may not be that spontaneous. Frontiers 
+in Human Neuroscience, 17, 1179081. <a href="https://doi.org/10.3389/fnhum.2023.1179081">
+https://doi.org/10.3389/fnhum.2023.1179081 </a>
+
+Hecker, L., Tebartz van Elst, L., & Kornmeier, J. (2023). Source localization 
+using recursively applied and projected MUSIC with flexible extent estimation. 
+Frontiers in Neuroscience, 17, 1170862. 
+<a href="https://doi.org/10.3389/fnins.2023.1170862">
+https://doi.org/10.3389/fnins.2023.1170862 </a>
+
+
+Hecker, L., Wilson, M., Tebartz van Elst, L., & Kornmeier, J. (2022). Altered EEG 
+variability on different time scales in participants with autism spectrum
+disorder: an exploratory study. Scientific reports, 12(1), 1-12. 
+<a href="https://doi.org/10.1038/s41598-022-17304-x"> 
 https://doi.org/10.1038/s41598-022-17304-x </a>
 
 Hecker, L., Rupprecht, R., Tebartz van Elst, L., & Kornmeier, J. (2021).
@@ -78,7 +95,7 @@ Disorder. <a href="https://doi.org/10.21203/rs.3.rs-880125/v1">
 https://doi.org/10.21203/rs.3.rs-880125/v1</a>
 
 ## Open Source
-
+[invert](https://github.com/LukeTheHecker/invert) Python package to solve M/EEG inverse problems with > 50 different approaches.  
 [esinet](https://github.com/LukeTheHecker/esinet) Python package to solve M/EEG
 inverse problems using artificial neural networks.  
 [LAURA](https://github.com/LukeTheHecker/laura) Python package to solve M/EEG
