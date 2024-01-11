@@ -28,6 +28,9 @@ University of Chemnitz
 
 ## Publications
 
+Hecker, L., Giri, A., Pantazis, D., & Adler, A. (2023). Localization of Spatially 
+Extended Brain Sources by Flexible Alternating Projection (Flex-AP). bioRxiv, 2023-11.
+
 Wilson, M., Hecker, L., Joos, E., Aertsen, A., Tebartz van Elst, L., & Kornmeier, 
 J. (2023). Spontaneous Necker-cube reversals may not be that spontaneous. Frontiers 
 in Human Neuroscience, 17, 1179081. <a href="https://doi.org/10.3389/fnhum.2023.1179081">
